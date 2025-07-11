@@ -1,4 +1,5 @@
-## Hi there 👋
+# Welcom UOS Hacking Club!
+---
 
 <!--
 
