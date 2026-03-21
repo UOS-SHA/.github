@@ -1,13 +1,31 @@
-# Welcom UOS Hacking Club!
+# Welcome to UOS Hacking Club, SHA! 👋
 
+SHA는 서울시립대학교 학생들이 함께 배우고 성장하는 보안 소모임입니다.  
+보안에 관심이 있는 학부생들이 모여 스터디, 세미나, CTF, 프로젝트 등 다양한 활동을 함께하고 있어요.
 
-<!--
+## About SHA
+SHA는 컴퓨터과학부 소속 학술 소모임으로,  
+정보보안 분야를 함께 공부하고 경험해보고 싶은 학생들이 모여 활동하는 동아리입니다.
 
-**Here are some ideas to get you started:**
+보안이 처음이어도 괜찮습니다.  
+함께 배우고, 함께 도전하고, 함께 성장하는 것을 가장 중요하게 생각합니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What We Do
+- 정기 세미나 및 스터디
+- CTF 문제 풀이와 대회 참가
+- 보안/개발 프로젝트 진행
+- 기술 공유 및 네트워킹
+
+## Teams
+- **CTF팀**: 다양한 CTF 대회에 참가하고 함께 문제를 풉니다.
+- **개발팀**: 보안과 관련된 웹, 시스템, 도구 개발 프로젝트를 진행합니다.
+- **학술팀**: 논문 및 기술 자료를 바탕으로 세미나를 진행하고, 도어락(대학 암호 동아리 지원사업) 활동을 함께합니다.
+
+## Who Can Join
+보안에 관심 있는 누구나 환영합니다!  
+기초가 부족해도, 아직 잘 몰라도 괜찮아요.  
+배워보고 싶은 마음만 있다면 SHA와 함께할 수 있습니다.
+
+## Contact
+- **회장** 조재희 | 010-2397-4021
+- **부회장** 박정빈 | 010-5969-7249
